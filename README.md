@@ -67,7 +67,7 @@ Each app will launch in a separate pop-up window.
 ## 📁 Folder Structure
 
 ```
-python-gui-mini-projects/
+PY/
 │
 ├── calculator/
 │   └── calculator.py
